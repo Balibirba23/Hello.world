@@ -1,0 +1,6 @@
+check the status of httpd.
+install httpd 
+start and enable httpd
+add http and https to the firewall
+test httpd by log in
+customize 
